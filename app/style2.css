@@ -1,0 +1,7 @@
+.box{
+    transition: .4s ease-in-out;
+    border-radius: 20px;
+}
+.box:hover{
+    background-color: red;
+}
